@@ -2,7 +2,7 @@
 
 **1. What is a module in JavaScript?**
 
-YOUR ANSWER:
+YOUR ANSWER: a way to package and modularize functions for sharing
 
 **2. Create a simple module with three functions; doThis(), doThat(), and didStuff(). For doThis() return a string of your choosing, for doThat() return another string of your choosing and for didStuff() add two parameters that will be multiplied together and returned with a string concatenated to the end of the result like result + " are the values multipled.". Be sure to have each of these functions exported via the module.exports.**
 
